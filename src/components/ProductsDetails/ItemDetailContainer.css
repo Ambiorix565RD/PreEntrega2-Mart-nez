@@ -1,0 +1,19 @@
+.DetailCharging{
+    text-align: center;
+    font-size: 1vw;
+}
+
+.Detail{
+    
+    text-align: center;
+    align-items: center;
+}
+.Detail h1{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.DetailContainer img{
+    width: 300px;
+
+}
